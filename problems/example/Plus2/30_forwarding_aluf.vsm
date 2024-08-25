@@ -1,0 +1,10 @@
+linc $lm0v $lr0v
+linc $aluf $ln0v
+linc $lm8v $lr8v
+linc $aluf $ln8v
+linc $lm16v $lr16v
+linc $aluf $ln16v
+linc $lm24v $lr24v
+linc $aluf $ln24v
+linc $lm32v $lr32v
+linc $aluf $ln32v

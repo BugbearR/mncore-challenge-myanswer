@@ -1,0 +1,5 @@
+# simple answer
+iinc $m0v $n0v
+iinc $m4v $n4v
+iinc $m8v $n8v
+iinc $m12v $n12v
